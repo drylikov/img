@@ -33,8 +33,7 @@ height: 279px;
  Currently only __PNG__ and __GIF__ are supported, because it's
  pretty rare (for myself at least) to use JPEGs or others in
  CSS, though feel free to submit a pull-request.                 
- 
- 
+  
  
  
  

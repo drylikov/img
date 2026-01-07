@@ -34,7 +34,6 @@ height: 279px;
  pretty rare (for myself at least) to use JPEGs or others in
  CSS, though feel free to submit a pull-request.                         
  
- 
   
  
  

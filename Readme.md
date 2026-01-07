@@ -35,8 +35,7 @@ height: 279px;
  CSS, though feel free to submit a pull-request.     
  
  
- 
- 
+  
  
  
  
